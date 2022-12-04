@@ -23,7 +23,7 @@
 
 - :ballot_box_with_check: Sprint 1. Basic Python
 - :ballot_box_with_check: Sprint 2. Exploratory Data Analysis (EDA)
-- :black_square_button: Sprint 3. Statistical Data Analysis
+- :ballot_box_with_check: Sprint 3. Statistical Data Analysis
 - :black_square_button: Sprint 4. Software Development Tools
 - :black_square_button: Sprint 5. Integrated Project 1
 - :black_square_button: Sprint 6. Data Collection and Storage (SQL)
