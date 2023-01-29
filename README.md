@@ -27,7 +27,7 @@
 - :ballot_box_with_check: Sprint 4. Software Development Tools
 - :ballot_box_with_check: Sprint 5. Integrated Project 1
 - :ballot_box_with_check: Sprint 6. Data Collection and Storage (SQL)
-- :black_square_button: Sprint 7. Introduction to Machine Learning
+- :ballot_box_with_check: Sprint 7. Introduction to Machine Learning
 - :black_square_button: Sprint 8. Supervised Learning
 - :black_square_button: Sprint 9. Machine Learning in Business
 - :black_square_button: Sprint 10. Integrated Project 2
