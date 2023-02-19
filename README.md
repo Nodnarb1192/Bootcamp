@@ -28,8 +28,8 @@
 - :ballot_box_with_check: Sprint 5. Integrated Project 1
 - :ballot_box_with_check: Sprint 6. Data Collection and Storage (SQL)
 - :ballot_box_with_check: Sprint 7. Introduction to Machine Learning
-- :black_square_button: Sprint 8. Supervised Learning
-- :black_square_button: Sprint 9. Machine Learning in Business
+- :ballot_box_with_check: Sprint 8. Supervised Learning
+- :ballot_box_with_check: Sprint 9. Machine Learning in Business
 - :black_square_button: Sprint 10. Integrated Project 2
 - :black_square_button: Sprint 11. Linear Algebra
 - :black_square_button: Sprint 12. Numerical Methods
