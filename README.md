@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <p> 
-  In this repository I will be posting my projects for the bootcamp Practicum. I am working on the Data Science course which is comprised of 17 Sprints.
+  In this repository I will be posting my projects for the bootcamp I am currently enrolled in. I am working on the Data Science course which is comprised of 17 Sprints.
  </p>
 
 
