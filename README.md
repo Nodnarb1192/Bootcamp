@@ -30,10 +30,10 @@
 - :ballot_box_with_check: Sprint 7. Introduction to Machine Learning
 - :ballot_box_with_check: Sprint 8. Supervised Learning
 - :ballot_box_with_check: Sprint 9. Machine Learning in Business
-- :black_square_button: Sprint 10. Integrated Project 2
-- :black_square_button: Sprint 11. Linear Algebra
-- :black_square_button: Sprint 12. Numerical Methods
-- :black_square_button: Sprint 13. Time Series
+- :ballot_box_with_check: Sprint 10. Integrated Project 2
+- :ballot_box_with_check: Sprint 11. Linear Algebra
+- :ballot_box_with_check: Sprint 12. Numerical Methods
+- :ballot_box_with_check: Sprint 13. Time Series
 - :black_square_button: Sprint 14. Machine Learning for Texts
 - :black_square_button: Sprint 15. Computer Vision
 - :black_square_button: Sprint 16. Unsupervised Learning
