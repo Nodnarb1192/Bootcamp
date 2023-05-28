@@ -1,4 +1,4 @@
-# Sprint 8: Supervised Learning
+# Delving into Supervised Learning: Concepts and Applications
 
 ## Introduction
 
