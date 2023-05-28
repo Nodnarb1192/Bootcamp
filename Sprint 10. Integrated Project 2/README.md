@@ -1,4 +1,4 @@
-# Sprint 10: Integrated Project 2
+# SEnhancing Gold Recovery Efficiency: Implementing Machine Learning in the Mining Industry
 
 ## Introduction
 
