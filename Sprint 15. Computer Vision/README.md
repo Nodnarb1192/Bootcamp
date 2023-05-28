@@ -1,4 +1,4 @@
-# Sprint 15: Computer Vision for Age Verification
+# Using Computer Vision for Age Verification in Supermarkets
 
 ## Introduction
 
