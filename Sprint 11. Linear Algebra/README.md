@@ -1,4 +1,4 @@
-# Sprint 11: Linear Algebra 
+# Optimizing Insurance Predictive Modelling and Data Protection Using Linear Algebra
 
 ## Introduction
 
