@@ -1,4 +1,4 @@
-# Sprint 14: Machine Learning for Texts
+# Automated Sentiment Analysis for Movie Reviews
 
 ## Introduction
 
