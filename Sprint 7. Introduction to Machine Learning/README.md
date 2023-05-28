@@ -1,4 +1,4 @@
-# Sprint 7: Introduction to Machine Learning
+# Getting Started with Machine Learning Principles and Practices
 
 ## Introduction
 
