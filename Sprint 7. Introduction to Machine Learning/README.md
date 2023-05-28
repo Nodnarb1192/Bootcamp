@@ -1,4 +1,4 @@
-# Getting Started with Machine Learning Principles and Practices
+# Exploring User Behavior with Machine Learning for Service Upgrade
 
 ## Introduction
 
