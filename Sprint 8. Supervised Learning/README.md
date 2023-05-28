@@ -1,4 +1,4 @@
-# Delving into Supervised Learning: Concepts and Applications
+# Customer Churn Prediction Using Supervised Learning
 
 ## Introduction
 
