@@ -1,4 +1,4 @@
-# Integrated Project 2: Data Collection and Storage
+# Insights into Ride-sharing Trends for Zuber in Chicago
 
 ## Introduction
 
