@@ -1,4 +1,4 @@
-# Sprint 9: Machine Learning in Business
+# Optimizing Resource Allocation with Machine Learning: A Case Study for the Oil Industry
 
 ## Introduction
 
