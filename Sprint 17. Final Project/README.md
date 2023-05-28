@@ -1,4 +1,4 @@
-# Sprint 17: Final Project
+# Culmination Project: Predicting Customer Churn for Interconnect Telecom
 
 ## Project Overview
 
